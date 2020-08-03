@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WordHuntSolverFrontend/precache-manifest.2e295aea6c688a19115786f137b379bf.js"
+  "/WordHuntSolverFrontend/precache-manifest.cd45c0313911df49ec8122cd317dc778.js"
 );
 
 self.addEventListener('message', (event) => {
