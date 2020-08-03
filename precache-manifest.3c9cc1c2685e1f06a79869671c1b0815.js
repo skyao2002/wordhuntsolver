@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76e270b86099a0efff74124f3b5c175a",
+    "revision": "42cd7115ea9217fc4279e25634e1e3ab",
     "url": "/WordHuntSolverFrontend/index.html"
   },
   {
