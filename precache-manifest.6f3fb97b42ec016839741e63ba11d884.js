@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ee4adda170a36cec7f4eb29bb45df49",
+    "revision": "bfdc135cbf6c3b42efae4770384fe7e4",
     "url": "/WordHuntSolverFrontend/index.html"
   },
   {
-    "revision": "68b8411abbd19b457c12",
+    "revision": "647e4cf73729a22f75c9",
     "url": "/WordHuntSolverFrontend/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "54d3b6886f2368acf435",
+    "revision": "a19c10a553942d78cc36",
     "url": "/WordHuntSolverFrontend/static/css/main.fcca4cc5.chunk.css"
   },
   {
-    "revision": "68b8411abbd19b457c12",
-    "url": "/WordHuntSolverFrontend/static/js/2.b6ea6548.chunk.js"
+    "revision": "647e4cf73729a22f75c9",
+    "url": "/WordHuntSolverFrontend/static/js/2.3fcb9096.chunk.js"
   },
   {
     "revision": "d98cd336984b0ac607f6616ca3f9cd82",
-    "url": "/WordHuntSolverFrontend/static/js/2.b6ea6548.chunk.js.LICENSE.txt"
+    "url": "/WordHuntSolverFrontend/static/js/2.3fcb9096.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54d3b6886f2368acf435",
-    "url": "/WordHuntSolverFrontend/static/js/main.af7916c6.chunk.js"
+    "revision": "a19c10a553942d78cc36",
+    "url": "/WordHuntSolverFrontend/static/js/main.20f79208.chunk.js"
   },
   {
     "revision": "7011f5b7cf3e32a2569e",
