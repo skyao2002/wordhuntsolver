@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/wordhuntsolver/static/css/main.a9411309.chunk.css",
-    "main.js": "/wordhuntsolver/static/js/main.df133937.chunk.js",
-    "main.js.map": "/wordhuntsolver/static/js/main.df133937.chunk.js.map",
+    "main.css": "/wordhuntsolver/static/css/main.fcca4cc5.chunk.css",
+    "main.js": "/wordhuntsolver/static/js/main.8fb0a555.chunk.js",
+    "main.js.map": "/wordhuntsolver/static/js/main.8fb0a555.chunk.js.map",
     "runtime-main.js": "/wordhuntsolver/static/js/runtime-main.2709faee.js",
     "runtime-main.js.map": "/wordhuntsolver/static/js/runtime-main.2709faee.js.map",
     "static/css/2.af3c1da9.chunk.css": "/wordhuntsolver/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.49f04cd1.chunk.js": "/wordhuntsolver/static/js/2.49f04cd1.chunk.js",
-    "static/js/2.49f04cd1.chunk.js.map": "/wordhuntsolver/static/js/2.49f04cd1.chunk.js.map",
+    "static/js/2.3fcb9096.chunk.js": "/wordhuntsolver/static/js/2.3fcb9096.chunk.js",
+    "static/js/2.3fcb9096.chunk.js.map": "/wordhuntsolver/static/js/2.3fcb9096.chunk.js.map",
     "index.html": "/wordhuntsolver/index.html",
-    "precache-manifest.aa8775112fdef9703972719873818806.js": "/wordhuntsolver/precache-manifest.aa8775112fdef9703972719873818806.js",
+    "precache-manifest.47737037c6f1d7a2589579b84649d7ce.js": "/wordhuntsolver/precache-manifest.47737037c6f1d7a2589579b84649d7ce.js",
     "service-worker.js": "/wordhuntsolver/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/wordhuntsolver/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.a9411309.chunk.css.map": "/wordhuntsolver/static/css/main.a9411309.chunk.css.map",
-    "static/js/2.49f04cd1.chunk.js.LICENSE.txt": "/wordhuntsolver/static/js/2.49f04cd1.chunk.js.LICENSE.txt"
+    "static/css/main.fcca4cc5.chunk.css.map": "/wordhuntsolver/static/css/main.fcca4cc5.chunk.css.map",
+    "static/js/2.3fcb9096.chunk.js.LICENSE.txt": "/wordhuntsolver/static/js/2.3fcb9096.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2709faee.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.49f04cd1.chunk.js",
-    "static/css/main.a9411309.chunk.css",
-    "static/js/main.df133937.chunk.js"
+    "static/js/2.3fcb9096.chunk.js",
+    "static/css/main.fcca4cc5.chunk.css",
+    "static/js/main.8fb0a555.chunk.js"
   ]
 }
