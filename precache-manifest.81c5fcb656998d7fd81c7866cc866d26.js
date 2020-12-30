@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d16c872602d782dfede11e2c34e74f85",
+    "revision": "9623da76dc7039bab032bd77ff6d4a46",
     "url": "/wordhuntsolver/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordhuntsolver/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9262c348c47248d8c551",
+    "revision": "6310a7e4a7a9adba5104",
     "url": "/wordhuntsolver/static/css/main.fcca4cc5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordhuntsolver/static/js/2.2199be0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9262c348c47248d8c551",
-    "url": "/wordhuntsolver/static/js/main.2209fd5b.chunk.js"
+    "revision": "6310a7e4a7a9adba5104",
+    "url": "/wordhuntsolver/static/js/main.87e1eeac.chunk.js"
   },
   {
     "revision": "38d0f5cc2fd9871d3f3b",
