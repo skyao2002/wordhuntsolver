@@ -1,0 +1,16 @@
+.square {
+    background-color: rgb(255, 247, 172);
+    outline: auto;
+    position: relative;
+    width: 100%;
+    padding-top: 50%; /* 1:1 Aspect Ratio */
+    padding-bottom: 50%;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+}
+  
+.letter {
+    position: absolute;
+    top:30%;
+    margin: auto;
+    width: 100%;
+}
